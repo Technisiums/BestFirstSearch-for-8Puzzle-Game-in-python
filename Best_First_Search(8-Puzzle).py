@@ -1,3 +1,4 @@
+#please don't forget to read the ReadMe.txt file
 import copy
 import operator
 start = [[2,8,3],[1,6,4],[7,-1,5]]
